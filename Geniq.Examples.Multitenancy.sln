@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geniq.Examples.Multitenancy", "Geniq.Examples.Multitenancy\Geniq.Examples.Multitenancy.csproj", "{54F2DB1D-1B20-4AEB-9952-9A25A5975EDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54F2DB1D-1B20-4AEB-9952-9A25A5975EDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54F2DB1D-1B20-4AEB-9952-9A25A5975EDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54F2DB1D-1B20-4AEB-9952-9A25A5975EDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54F2DB1D-1B20-4AEB-9952-9A25A5975EDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62C237A3-4F26-4380-ACFF-711D2755634A}
+	EndGlobalSection
+EndGlobal
